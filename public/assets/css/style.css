@@ -1,0 +1,111 @@
+.user-dashboard h1, .user-dashboard h2, .user-dashboard h3, .user-dashboard h4, .user-dashboard h5, .user-dashboard h6, .user-dashboard span, .user-dashboard p, .user-dashboard li, .user-dashboard a {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.dashboard h1 {
+    margin: 0;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.dashboard span {
+    color: #000;
+    text-transform: capitalize;
+}
+
+.lagmp_menu select {
+    cursor: pointer;
+}
+
+.box-border-all {
+    padding: 10px 0px;
+    border: 1px solid #ddd;
+}
+
+.section-title h2 {
+    font-size: 25px;
+    margin-bottom: 25px;
+    font-weight: 700;
+    text-shadow: 1px 1px 0px #000;
+}
+
+.section-title h2 {
+    margin: 0px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.section-title {
+    border: 1px dashed #ddd;
+    background: #111 !important;
+}
+
+.shop_form p {
+    margin: 0px;
+}
+
+.shop_form .form-group {
+    margin-bottom: 10px;
+}
+
+.shop_form label.control-label {
+    padding-bottom: 5px;
+}
+
+.shop_form select {
+    max-width: 100%;
+    height: 35px;
+}
+
+span#show_logo_image {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.dataTables_length select {
+    padding: 4px 15px !important;
+}
+
+label#state_name-error, label#state_lat-error, label#state_long-error {
+    display: block;
+    color: #dc3545;
+}
+
+label#country-error, label#lat_val-error, label#long_val-error, label#country_name-error, label#select_state_name-error, label#shop_location-error, label#country_lat-error, label#country_lng-error, label#select_countries_name-error {
+    display: block;
+    color: #dc3545;
+}
+
+td.action_btn_dgn {
+    display: flex;
+}
+
+td.action_btn_dgn a {
+    margin-right: 11px;
+}
+
+.shoplg_logo_size img {
+    height: auto;
+    max-width: 200px;
+}
+
+.action_btn_dgn a, .action_btn_dgn form {
+    display: block;
+    margin-left: 10px;
+}
+
+.action_btn_dgn {
+    display: flex;
+}
+
+.shop_list {
+    overflow: auto;
+}
+
+.display_cntry_list {
+    display: none;
+}
+
+.visible_cntry_list {
+    display: block;
+}

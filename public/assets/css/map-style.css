@@ -1,0 +1,94 @@
+.map_box {
+    border: 2px solid #ddd;
+    height: 500px;
+}
+
+.lagmp_area {
+    padding: 70px 0px;
+}
+
+div#map {
+    width: 100% !important;
+    height: 500px;
+}
+
+div#all_shops, div#get_all_shops, .pointed_country_fd {
+    display: none;
+}
+
+.display_country {
+    display: block;
+}
+
+heading_text {
+    display: block;
+    font-weight: 800;
+    padding: 5px 0px;
+    color: #27ad61;
+    font-size: 20px;
+}
+
+.gm-style-iw-d img {
+    width: auto;
+    height: auto;
+}
+
+adrs_line_one, adrs_line_two, tell, fax, website, email, shop_location, info, info_three {
+    display: block;
+    font-size: 16px;
+}
+
+.gm-style-iw-d a {
+    display: block;
+    padding: 2px 0px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.gm-style-iw-d a:first-child {
+    margin-top: 15px !important;
+}
+
+.gm-style-iw-d fax {
+    margin-bottom: 10px;
+}
+
+.gm-style-iw-d info {
+    margin-top: 4px !important;
+    display: block;
+}
+
+.pointed_shop_inner_country{
+    display: none;
+}
+
+
+
+.different_shop_display_country{
+    display: block;
+}
+
+.lagmp_area .container {
+    max-width: 100% !important;
+}
+.lagmp_menu select {
+    cursor: pointer;
+}
+
+
+.gm-style-iw-d img {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* end  */
